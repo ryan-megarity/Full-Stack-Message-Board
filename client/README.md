@@ -1,6 +1,6 @@
 
 # deployed
-https://full-stack-message-board-kthh5ej69.vercel.app/
+https://full-stack-message-board.now.sh/
 
 # client
 
