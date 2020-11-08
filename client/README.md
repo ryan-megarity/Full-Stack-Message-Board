@@ -1,3 +1,7 @@
+
+# deployed
+https://full-stack-message-board-kthh5ej69.vercel.app/
+
 # client
 
 ## Project setup
